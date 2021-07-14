@@ -9,5 +9,5 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
-(https://github-readme-stats.vercel.app/api?username=shivaprasadyanala)
+[<img src="https://github-readme-stats.vercel.app/api?username=shivaprasadyanala" alt="stats">]
 
