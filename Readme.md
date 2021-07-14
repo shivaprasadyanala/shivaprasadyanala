@@ -26,6 +26,9 @@
 </p>
 <summary>:chart_with_upwards_trend: Contribution Graph </summary>
    <br/>
-   
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivaprasadyanala&show_icons=true&locale=en&layout=compact" alt="shivaprasadyanala" /></p>
+<img src="https://activity-graph.herokuapp.com/graph?username=shivaprasadyanala&theme=xcode" alt="Contribution Graph" align="center" />
+      
+<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=shivaprasadyanala" alt="shivaprasadyanala" /></p>
 
+
+   
