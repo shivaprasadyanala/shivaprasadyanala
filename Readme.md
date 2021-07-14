@@ -16,6 +16,11 @@
 <div><p>Languages i contrubuted to</p></div>
 <br/>
 <div ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaprasadyanala&layout=compact&show_icons=true&theme=cobalt" alt="stats"></div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivaprasadyanala&label=Profile%20views&color=0e75b6&style=flat" alt="arpit456jain" /> </p>
-
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/arpit-jain-0b054a170" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/arpit-jain-0b054a170" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/aj15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aj15" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/111arpit1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="111arpit1" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/arpit456jain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="arpit456jain" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/111arpit1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="111arpit1" height="30" width="40" /></a>
+</p>
