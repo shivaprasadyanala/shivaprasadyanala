@@ -10,7 +10,8 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 <br/>
 My github stats<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=shivaprasadyanala" alt="stats">
+<img src="https://github-readme-stats.vercel.app/api?username=shivaprasadyanala&theme=radical)
+" alt="stats">
 <br/>
 Languages i contrubuted to
 <br/>
