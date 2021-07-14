@@ -14,5 +14,5 @@ My github stats<br/>
 <br/>
 Languages i contrubuted to
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" alt="stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="stats">
 
