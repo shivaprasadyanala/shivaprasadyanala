@@ -6,7 +6,7 @@
 
 - 🔭 I am intrested in webdevlopment.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 <br/>
 <div >My github stats</div>
 <br/>
@@ -36,11 +36,11 @@
 <br/>
 <summary>:chart_with_upwards_trend: Contribution Graph </summary>
    <br/>
-<img src="https://activity-graph.herokuapp.com/graph?username=shivaprasadyanala&theme=xcode" alt="Contribution Graph" align="center" />
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=shivaprasadyanala&theme=xcode" alt="Contribution Graph" align="center" /> -->
       
-<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=shivaprasadyanala" alt="shivaprasadyanala" /></p>
+<!-- <p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=shivaprasadyanala" alt="shivaprasadyanala" /></p> -->
 
 <br><br>
-<p><img align="center" src="https://grass-graph.moshimo.works/images/shivaprasadyanala.png" />
+<!-- <p><img align="center" src="https://grass-graph.moshimo.works/images/shivaprasadyanala.png" /> -->
 </p>
    
