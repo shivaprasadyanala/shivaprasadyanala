@@ -4,7 +4,7 @@
 
 ## I'm a UnderGraduate Student!
 
-- 🔭 I am intrested in webdevlopment.
+- 🔭 I am intrested in full-stack webdevlopment.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 <br/>
