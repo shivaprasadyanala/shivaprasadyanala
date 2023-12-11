@@ -2,11 +2,10 @@
 
 
 
-## I'm a UnderGraduate Student!
+## I'm a Graduate Student in computer science!
 
 - 🔭 I am interested in full-stack webdevlopment.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
 <br/>
 <div >My github stats</div>
 <br/>
