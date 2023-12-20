@@ -10,7 +10,6 @@
 <div >My github stats</div>
 <br/>
 <div><img src="https://github-readme-stats.vercel.app/api?username=shivaprasadyanala&show_icons=true&theme=cobalt" alt="stats"></div>
-<div><img src="https://github-readme-stats.vercel.app/api/wakatime?username=shivaprasadyanala&show_icons=true&theme=cobalt" alt="stats"></div>
 
 <br/>
 <div><p>Languages i contrubuted to</p></div>
